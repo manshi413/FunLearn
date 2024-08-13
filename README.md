@@ -1,4 +1,4 @@
-# LearningSpace
+# FunLearn
 > This is a Website Design Project.
 <br>
 > Using Html, CSS, JavaScript.
